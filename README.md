@@ -16,6 +16,7 @@ The application allows users to:
 
 ---
 ### The user menu
+---
 using the while loop:
 1.Send message
 2.Show recent messages
