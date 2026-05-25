@@ -1,5 +1,7 @@
-#QuickChat Java Application part 2:
-##Overview
+##ST10511154
+# QuickChat Java Application part 2
+
+## Overview
 QuickChat is a Java messaging application for a Programming POE project.
 
 The application allows users to:
@@ -11,6 +13,13 @@ The application allows users to:
 -Validate recipient numbers
 -Store messages in a JSON file
 -Unit test using the JUnit
+
+---
+### The user menu
+using the while loop:
+1.Send message
+2.Show recent messages
+3.Quit
 ---
 feat: Initial commit - Set up ChatApp Maven project structure
 Added Login.java, Main.java, Message.java,pom.xml, and gitignore.
